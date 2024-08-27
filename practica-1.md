@@ -4,7 +4,7 @@
 
 **Edad:** 21 años 
 
-![Yo](../programacion/Yo.jpeg)
+![Yo](https://github.com/RanchQ/programacion/blob/main/Yo.jpeg?raw=true)
 
 ## Información extra:
 ### ¿Quién soy?
