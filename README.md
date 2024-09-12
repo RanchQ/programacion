@@ -6,8 +6,12 @@
 
 ---
 
-- [Practica 3](https://github.com/RanchQ/practica-3)
+- [Práctica 3](https://github.com/RanchQ/practica-3)
 
 ---
 
 - [Práctica 5](./practica-5.md)
+
+---
+
+- [Práctica 6](https://github.com/RanchQ/Practica-6)
