@@ -15,3 +15,7 @@
 ---
 
 - [Práctica 6](https://github.com/RanchQ/Practica-6)
+
+---
+
+- [Práctica 7](https://github.com/RanchQ/Practica-6)
