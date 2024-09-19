@@ -42,7 +42,7 @@ git pull
 
 ## g.      ¿Qué es una fusión?
 
-- Agregar la información de una rama secundaria a la rama principal.
+- Es la forma en la que se combina la información de una rama secundaria con la rama principal.
 
 ## h.      Explica los diferentes tipos de fusión que existen.
 
