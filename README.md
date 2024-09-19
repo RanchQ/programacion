@@ -19,3 +19,7 @@
 ---
 
 - [Práctica 7](https://github.com/RanchQ/Practica-6)
+
+---
+
+- [Práctica 8](./practica-8.md)
